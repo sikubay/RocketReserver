@@ -1,2 +1,2 @@
 # RocketReserver
-A Swift Implementation for Apollo GraphQL
+A Swift Implementation of Apollo GraphQL
